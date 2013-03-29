@@ -1,6 +1,7 @@
 /* ==========================================================================
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
+@import url("http://fonts.googleapis.com/css?family=Lato");
 
 html,
 button,
@@ -64,6 +65,7 @@ textarea {
 
 html {
     margin: 0 10px;
+    font-family: Lato;
 }
 
 h1 {
