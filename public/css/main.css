@@ -69,6 +69,10 @@ html {
     font-size: bold;
 }
 
+.hero-unit {
+    text-align: center;
+}
+
 .hero-unit h1 {
     font-size: 3.5em;
     font-weight: 700;
@@ -84,6 +88,13 @@ html {
     font-weight: 400;
     margin: .5em 0;
     letter-spacing: -.05em;
+}
+
+.hero-unit h3 {
+    font-size: 1.15em;
+    font-weight: 400;
+    font-style: italic;
+    width: inherit;
 }
 
 
