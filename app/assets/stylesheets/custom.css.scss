@@ -1,7 +1,8 @@
 $baseFontFamily: Lato;
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
 
-$color1: #CD4040;
+$color1: #617897;
+$oldColo1: #CD4040;
 $navbarBackground: $color1;
 $navbarBackgroundHighlight: $color1;
 $baseBorderRadius: 0px;
@@ -26,7 +27,7 @@ $heroUnitBackground: white;
 }
 
 .ext {
-	width: 100%;
+	/*width: 100%;*/
 	background-color: $color1;
 }
 
